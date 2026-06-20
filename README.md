@@ -5,7 +5,7 @@
 </div>
 
 <!-- Introduction Section -->
-<h3 align="center">💼 Software Developer Intern @Aerosense Inc. </h3>
+<h3 align="center">💼 Former Software Developer Intern @Aerosense Inc. </h3>
  <h3 align="center">🎓 Prefinal-year B.Tech student at Indian Institute of Technology (ISM), Dhanbad. </h3>
 <h3 align="center">💻 A passionate developer focused on Mern Stack Development, DevOps & Cybersecurity</h3>
 
